@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://172.16.82.156:80/LeShanBank.png</string>
+					<string>http://bb/LeShanBank.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://172.16.82.156:80/LeShanBank.png</string>
+					<string>http://aa/LeShanBank.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
